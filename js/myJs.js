@@ -7,7 +7,7 @@ const textConfig = {
   text6: "Yêu ơi là yêu <3",
   text7: "Biết mà <3 Vậy FYU xếp thứ mấy trong lòng bạn?",
   text8: "Gửi tình yêu <3",
-  text9: "Đương nhiên là số 1",
+  text9: "Đương nhiên là số một",
    text10: "Waooo",
   text11:
     "Không ngờ tình yêu của bạn dành cho FYU lại to đến thế <3 FYU cũng có vài lời muốn gửi đến bạn đó",
